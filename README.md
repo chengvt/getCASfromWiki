@@ -10,3 +10,8 @@ Then use any of the following formula.
     =getWikiCAS("ethanol")
 
     =getWikiCAS(A2)
+	
+## Supports
+
+- redirect page from wikipedia
+- retrieve multiple CAS number and automatically choose the one with the shortest length
